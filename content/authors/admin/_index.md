@@ -3,8 +3,8 @@ authors:
 - admin
 bio: My research interests include population genomics and marine conservation.
 education:
-  degrees:
-  - degree: B.S. in Biology
+  courses:
+  - course: B.S. in Biology
     institution: Pennsylvania State University
     year completed: 2014
   - degree: M.S. in Biology
