@@ -6,7 +6,7 @@ education:
   courses:
   - course: B.S. in Biology
     institution: Pennsylvania State University
-    year completed: 2014
+    year: 2014
   - course: M.S. in Biology
     institution: Saint Joseph's University
     year: 2017
