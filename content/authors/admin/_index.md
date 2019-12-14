@@ -7,12 +7,9 @@ education:
   - course: B.S. in Biology
     institution: Pennsylvania State University
     year completed: 2014
-  - degree: M.S. in Biology
+  - course: M.S. in Biology
     institution: Saint Joseph's University
     year: 2017
-  - degree: Ph.D. in Ecology & Evolution
-    institution: Rutgers University
-    year: 2021 (expected)
 email: "rene.clark@rutgers.edu"
 interests:
 - Population Genomics
