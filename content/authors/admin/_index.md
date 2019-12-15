@@ -30,5 +30,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD candidate in Ecology & Evolution at Rutgers University. My research interests include molecular ecology and marine conservation. Most of my current work invovles using population genomics tools and techniques to assess how we as humans are impacting marine populations around the globe.
+I am currently a PhD candidate in Ecology & Evolution at Rutgers University. My research interests include molecular ecology and marine conservation. Most of my current work invovles using population genomics tools and techniques to assess how marine populations are changing through both space and time, with emphasis on how we as humans are driving such processes around the globe. I am particularly interested in questions of adaptation and selection, as well as assessing the adaptive potential of tropical fish species.
+
+When not doing my own research, I am also very passionate about getting our younger generations engaged in scientific endeavors. Prior to working at Rutgers I spent several yaers working in the Philadelphia Public School District supplementing science curriculum with hands-on activities, and running science summer camps for all age groups. I am currently serving as an Ecology Teacher at an early education enrichment center in NJ.
 
