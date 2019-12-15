@@ -14,25 +14,16 @@ email: "rene.clark@rutgers.edu"
 interests:
 - Population Genomics
 - Molecular Ecology
-- Marine Ecology
+- Marine Conservation
 name: Rene Clark
 organizations:
 - name: Rutgers University
   url: ""
 role: PhD Candidate in Ecology & Evolution
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rclark848
 superuser: true
 user_groups:
 - Researchers
