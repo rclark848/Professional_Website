@@ -15,7 +15,7 @@ interests:
 - Population Genomics
 - Molecular Ecology
 - Marine Conservation
-name: Rene Clark
+name: René Clark
 organizations:
 - name: Rutgers University
   url: ""
