@@ -27,19 +27,17 @@ abstract: The fruit fly, Drosophila suzukii, is an invasive species that causes 
 authors:
 - admin
 - Marissa DiPiero
-- Johnathan T. Fingerut
 - Scott P. McRobert
-doi: "10.1007/s10905-020-09761-x"
 featured: false
-publication: '*Journal of Insect Behavior,* **33**:193-200'
+publication: '*Journal of Insect ,* **33**:193-200'
 #publication_short: ""
 #publication_types:
 #- "1"
 publishDate: "2020-11-03"
-title: An analysis of female postcopulatory behavior in Drosophila suzukii and Drosophila biarmipes
+title: Lalalala
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://link.springer.com/article/10.1007/s10905-020-09761-x
+url_pdf: ""
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
