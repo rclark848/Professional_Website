@@ -24,13 +24,16 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rclark848
+-icon: google
+ icon_pack: fab
+ link: https://scholar.google.com/citations?user=TW9BByYAAAAJ&hl=en&oi=sra
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am currently a PhD candidate in Ecology & Evolution at Rutgers University. My research interests include molecular ecology and marine conservation. Most of my current work involves using population genomics tools and techniques to assess how marine populations are changing through both space and time, with emphasis on how we as humans are driving such processes around the globe. I am particularly interested in questions of adaptation and selection, as well as assessing the adaptive potential of tropical fish species.
+I am currently a PhD candidate in Ecology & Evolution at Rutgers University, where my research interests include molecular ecology and marine conservation. Most of my current work involves using population genomics tools and techniques to assess how marine populations are changing through both space and time, with emphasis on how we as humans are driving such processes around the globe. I am particularly interested in questions of adaptation and selection, as well as assessing the adaptive potential of tropical fish species.
 
-When not doing my own research, I am also very passionate about getting our younger generations engaged in scientific endeavors. Prior to working at Rutgers I spent several years working in the Philadelphia Public School District supplementing science curriculum with hands-on activities, and running science summer camps for all age groups. I am currently serving as an Ecology Teacher at an early education enrichment center in NJ.
+When not doing my own research, I am also very passionate about getting our younger generations engaged in scientific endeavors. Prior to working at Rutgers I spent several years working in the Philadelphia Public School District supplementing science curriculum with hands-on activities, and running science summer camps for all age groups. I am currently serving as the Outreach Coordinator for the Ecology & Evolution GSA at Rutgers, as well as an Ecology Teacher at an early education enrichment center in NJ.
 
