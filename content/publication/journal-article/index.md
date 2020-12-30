@@ -1,87 +1,32 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The fruit fly, Drosophila suzukii, is an invasive species that causes widespread crop damage in the United States. We examined a series of basic reproductive behaviors in this species in order to expand our knowledge of the life history of D. suzukii. We also conducted a comparison study using its sister species, D. biarmipes, to determine if the two species shared any similarities in sexual behavior. The behaviors investigated were sexual attractiveness, sexual receptivity, and offspring production. The sexual attractiveness and remating frequency (possibly reflecting sexual receptivity) of both D. suzukii and D. biarmipes females decreased significantly after an initial copulation and did not recover within 14 days. D. suzukii and D. biarmipes females also produced an average of 85.19 ± 6.27 and 104.45 ± 6.90 viable offspring, respectively, over the two weeks following the initial copulation, suggesting that they were able to store sperm over an extended period of time. We also found that the sexual attractiveness of virgin D. suzukii decreased as they aged. This decline may be related to nutrition, as their attractiveness did not diminish when the females were raised on a blueberry as well as standard media and yeast. Our results, coupled with the findings of other studies investigating basic life history and reproductive biology parameters, can aid in the effort to halt the spread of D. suzukii by informing and refining future and current pest management strategies.
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Marissa DiPiero
+- Johnathan T. Fingerut
+- Scott P. McRobert
+date: "2020-11-03"
+doi: "10.1007/s10905-020-09761-x"
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Journal of Insect Behavior,* **33**:193-200'
 publication_short: ""
 publication_types:
-- "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- "1"
+publishDate: "2020-11-03"
+#slides: example
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+#  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
----
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
-featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ""
-publication_types:
-- "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: An analysis of female postcopulatory behavior in *Drosophila suzukii* and *Drosophila biarmipes*
+#url_code: ""
+#url_dataset: ""
+url_pdf: https://link.springer.com/article/10.1007/s10905-020-09761-x
+#url_poster: ""
+#url_project: ""
+#url_slides: ""
+#url_source: ""
+#url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
