@@ -5,20 +5,14 @@ authors:
 - Marissa DiPiero
 - Johnathan T. Fingerut
 - Scott P. McRobert
-date: "2020-11-03"
 doi: "10.1007/s10905-020-09761-x"
 featured: false
 publication: '*Journal of Insect Behavior,* **33**:193-200'
-publication_short: ""
-publication_types:
-- "1"
+#publication_short: ""
+#publication_types:
+#- "1"
 publishDate: "2020-11-03"
-#slides: example
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-#  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: An analysis of female postcopulatory behavior in *Drosophila suzukii* and *Drosophila biarmipes*
+title: An analysis of female postcopulatory behavior in Drosophila suzukii and Drosophila biarmipes
 #url_code: ""
 #url_dataset: ""
 url_pdf: https://link.springer.com/article/10.1007/s10905-020-09761-x
@@ -28,5 +22,3 @@ url_pdf: https://link.springer.com/article/10.1007/s10905-020-09761-x
 #url_source: ""
 #url_video: ""
 ---
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
