@@ -24,9 +24,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rclark848
-- icon: google
-  icon_pack: fab
-  link: https://scholar.google.com/citations?user=TW9BByYAAAAJ&hl=en&oi=sra
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=TW9BByYAAAAJ&hl=en&oi=sra
