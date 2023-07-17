@@ -9,7 +9,7 @@ I am an evolutionary ecologist applying population genomics tools and techniques
 
 Tropical marine environments experience some of the most intense human impacts and biodiversity risks worldwide. However, the extent to which such heavy anthropogenic activity can translate into substantial, long-lasting genomic consequences in the wild, and the conditions under which such change is likely to take place, remain important questions. This is particularly true of marine systems, where traditionally larger effective population sizes, weaker genetic drift, and high gene flow may make genetic erosion difficult to detect
 
-To help address these gaps in knowledge, I am involved in a large multi-national, NSF-funded collaboration that is leveraging an extensive museum collection and temporal genomics techniques to assess long-term genomic change in tropical fish species over the past century of intense fisheries exploitation in the Philippines. I am particularly interested in quantifying the rate and trajectory of genomic diversity loss, as well as identifying potential signatures of fisheries-induced or environmental selection.
+To help address these gaps in knowledge, I am involved in a large multi-national, NSF-funded [collaboration](https://sites.wp.odu.edu/PIRE/) that is leveraging an extensive museum collection and temporal genomics techniques to assess long-term genomic change in tropical fish species over the past century of intense fisheries exploitation in the Philippines. I am particularly interested in quantifying the rate and trajectory of genomic diversity loss, as well as identifying potential signatures of fisheries-induced or environmental selection.
 
 **Macroecological drivers of genetic diversity**
 
