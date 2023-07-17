@@ -12,6 +12,6 @@ title: Publications
 
 [Kitchel ZK, Bandara RMWJ, Bos JT, Clark RD, Forrest DL & Pinsky ML. (2021). Book Review: Ocean Recovery: A Sustainable Future for Global Fisheries? Fisheries, 46(4):201.](https://doi.org/10.1002/fsh.10580)
 
-[Clark RD, DiPiero M, Fingerut JT & McRobert SP. (2020) An analysis of female postcopulatory behavior in Drosophila suzukii and Drosophila biarmipes. Journal of Insect Behavior, 33, 193-200](https://link.springer.com/article/10.1007/s10905-020-09761-x)
+[Clark RD, DiPiero M, Fingerut JT & McRobert SP. (2020) An analysis of female postcopulatory behavior in Drosophila suzukii and Drosophila biarmipes. Journal of Insect Behavior, 33, 193-200.](https://link.springer.com/article/10.1007/s10905-020-09761-x)
 
 ---
