@@ -17,7 +17,8 @@ I, along with many others, am interested in leveraging previously collected gene
 
 As intraspecific genetic diversity is the necessary precursor to speciation, such questions have broad ecological significance and can help provide a more comprehensive view of how forces interacting across the genome scale up to provide the starting material for both species and community diversity.
 
-
 **Urbanization in house mice**
 
-While most of my previous work has occurred in the marine realm, I am also interested in expanding these lines of questions into other systems. At Drexel, I am currently working in the [Phifer-Rixey Lab](http://phiferrixeylab.com/) to understand the evolutionary consequences of urbanization in house mice (*mus musculus*). In particular, I am interested in both (1) identifying genomic signatures of rapid adaptation to urban environments and (2) assessing the repeatability of any adaptive patterns, by comparing the genomes and transcriptomes mice captured across an urban-rural gradient in three U.S. cities. 
+While most of my previous work has occurred in the marine realm, I am also interested in expanding these lines of questions into other systems. At Drexel, I am currently working in the [Phifer-Rixey Lab](http://phiferrixeylab.com/) to understand the evolutionary consequences of urbanization in house mice (*mus musculus*). In particular, I am interested in both (1) identifying genomic signatures of rapid adaptation to urban environments and (2) assessing the repeatability of any adaptive patterns, by comparing the genomes and transcriptomes mice captured across an urban-rural gradient in three U.S. cities.
+
+I was also recently awarded an NSF post-doctoral fellowship to trace urban adaptation through a temporal lens as well, by pairing contemporary and historical (circa early 1900's) collections of urban and rural house mice from in and around New York City.
