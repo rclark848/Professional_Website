@@ -3,7 +3,7 @@ title: Publications
 
 ---
 
-**2025**
+**2025** 
 
 9. Fitz KS, Abesamis RA, Baldisimo JGP, Bucol, AA, Clark RD, Garcia E, Lopez IR, Magnuson SF, Malabag MJ, Muallil RN, Parenti LR, Reid BR, Santos MD, Bird CE, Carpenter KE & Pinsky ML. (2025). Preservation of genetic diversity and selection over a century in a coral reef fish (Taeniamia zosterophora) in the Philippines. The American Naturalist. Accepted.
 
